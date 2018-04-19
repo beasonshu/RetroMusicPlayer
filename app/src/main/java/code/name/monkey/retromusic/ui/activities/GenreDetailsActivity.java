@@ -17,7 +17,6 @@ import android.widget.ProgressBar;
 import android.widget.TextView;
 
 import com.afollestad.materialcab.MaterialCab;
-import com.name.monkey.retromusic.ui.activities.base.AbsSlidingMusicPanelActivity;
 import com.simplecityapps.recyclerview_fastscroll.views.FastScrollRecyclerView;
 
 import java.util.ArrayList;
@@ -38,6 +37,7 @@ import code.name.monkey.retromusic.R;
 import code.name.monkey.retromusic.helper.MusicPlayerRemote;
 import code.name.monkey.retromusic.interfaces.CabHolder;
 import code.name.monkey.retromusic.misc.AppBarStateChangeListener;
+import code.name.monkey.retromusic.ui.activities.base.AbsSlidingMusicPanelActivity;
 import code.name.monkey.retromusic.ui.adapter.song.SongAdapter;
 import code.name.monkey.retromusic.util.RetroColorUtil;
 import code.name.monkey.retromusic.util.ViewUtil;

@@ -21,7 +21,6 @@ import com.h6ah4i.android.widget.advrecyclerview.animator.GeneralItemAnimator;
 import com.h6ah4i.android.widget.advrecyclerview.animator.RefactoredDefaultItemAnimator;
 import com.h6ah4i.android.widget.advrecyclerview.draggable.RecyclerViewDragDropManager;
 import com.h6ah4i.android.widget.advrecyclerview.utils.WrapperAdapterUtils;
-import com.name.monkey.retromusic.ui.activities.base.AbsSlidingMusicPanelActivity;
 import com.simplecityapps.recyclerview_fastscroll.views.FastScrollRecyclerView;
 
 import java.util.ArrayList;
@@ -46,6 +45,7 @@ import code.name.monkey.retromusic.helper.MusicPlayerRemote;
 import code.name.monkey.retromusic.helper.menu.PlaylistMenuHelper;
 import code.name.monkey.retromusic.interfaces.CabHolder;
 import code.name.monkey.retromusic.misc.AppBarStateChangeListener;
+import code.name.monkey.retromusic.ui.activities.base.AbsSlidingMusicPanelActivity;
 import code.name.monkey.retromusic.ui.adapter.song.OrderablePlaylistSongAdapter;
 import code.name.monkey.retromusic.ui.adapter.song.PlaylistSongAdapter;
 import code.name.monkey.retromusic.ui.adapter.song.SongAdapter;

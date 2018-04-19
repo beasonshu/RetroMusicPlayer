@@ -18,10 +18,10 @@ import android.widget.TextView;
 import com.afollestad.materialdialogs.DialogAction;
 import com.afollestad.materialdialogs.MaterialDialog;
 import com.bumptech.glide.Glide;
-import com.name.monkey.retromusic.ui.fragments.player.NowPlayingScreen;
 
 import butterknife.ButterKnife;
 import code.name.monkey.retromusic.R;
+import code.name.monkey.retromusic.ui.fragments.player.NowPlayingScreen;
 import code.name.monkey.retromusic.util.PreferenceUtil;
 import code.name.monkey.retromusic.util.ViewUtil;
 

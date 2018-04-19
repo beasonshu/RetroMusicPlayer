@@ -12,7 +12,6 @@ import android.support.annotation.StyleRes;
 import com.google.gson.Gson;
 import com.google.gson.JsonSyntaxException;
 import com.google.gson.reflect.TypeToken;
-import com.name.monkey.retromusic.ui.fragments.player.NowPlayingScreen;
 
 import java.io.File;
 import java.lang.reflect.Type;
@@ -23,6 +22,7 @@ import code.name.monkey.backend.model.CategoryInfo;
 import code.name.monkey.backend.util.FileUtil;
 import code.name.monkey.retromusic.R;
 import code.name.monkey.retromusic.ui.fragments.mainactivity.folders.FoldersFragment;
+import code.name.monkey.retromusic.ui.fragments.player.NowPlayingScreen;
 
 public final class PreferenceUtil {
     public static final String LIBRARY_CATEGORIES = "library_categories";

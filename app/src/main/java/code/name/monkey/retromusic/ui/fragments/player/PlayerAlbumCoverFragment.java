@@ -9,7 +9,6 @@ import android.view.MotionEvent;
 import android.view.View;
 import android.view.ViewGroup;
 
-import com.name.monkey.retromusic.ui.fragments.player.NowPlayingScreen;
 
 import butterknife.BindView;
 import butterknife.ButterKnife;

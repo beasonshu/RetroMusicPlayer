@@ -29,8 +29,6 @@ import android.view.ViewGroup;
 import android.widget.ImageView;
 import android.widget.TextView;
 
-import com.name.monkey.retromusic.ui.activities.base.AbsSlidingMusicPanelActivity;
-
 import java.util.ArrayList;
 import java.util.List;
 import java.util.concurrent.TimeUnit;
@@ -47,6 +45,7 @@ import code.name.monkey.retromusic.R;
 import code.name.monkey.retromusic.helper.MusicPlayerRemote;
 import code.name.monkey.retromusic.helper.SearchQueryHelper;
 import code.name.monkey.retromusic.service.MusicService;
+import code.name.monkey.retromusic.ui.activities.base.AbsSlidingMusicPanelActivity;
 import code.name.monkey.retromusic.ui.fragments.mainactivity.AlbumsFragment;
 import code.name.monkey.retromusic.ui.fragments.mainactivity.ArtistsFragment;
 import code.name.monkey.retromusic.ui.fragments.mainactivity.GenreFragment;

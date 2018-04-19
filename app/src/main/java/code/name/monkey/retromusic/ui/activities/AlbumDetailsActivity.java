@@ -22,7 +22,6 @@ import android.widget.TextView;
 import com.bumptech.glide.Glide;
 import com.bumptech.glide.request.RequestListener;
 import com.bumptech.glide.request.target.Target;
-import com.name.monkey.retromusic.ui.activities.base.AbsSlidingMusicPanelActivity;
 
 import java.util.ArrayList;
 
@@ -45,6 +44,7 @@ import code.name.monkey.retromusic.glide.RetroMusicColoredTarget;
 import code.name.monkey.retromusic.glide.SongGlideRequest;
 import code.name.monkey.retromusic.glide.palette.BitmapPaletteWrapper;
 import code.name.monkey.retromusic.helper.MusicPlayerRemote;
+import code.name.monkey.retromusic.ui.activities.base.AbsSlidingMusicPanelActivity;
 import code.name.monkey.retromusic.ui.activities.tageditor.AbsTagEditorActivity;
 import code.name.monkey.retromusic.ui.activities.tageditor.AlbumTagEditorActivity;
 import code.name.monkey.retromusic.ui.adapter.song.SimpleSongAdapter;

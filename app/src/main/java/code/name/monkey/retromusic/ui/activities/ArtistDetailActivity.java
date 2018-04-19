@@ -27,7 +27,6 @@ import android.widget.TextView;
 import android.widget.Toast;
 
 import com.bumptech.glide.Glide;
-import com.name.monkey.retromusic.ui.activities.base.AbsSlidingMusicPanelActivity;
 
 import java.util.ArrayList;
 import java.util.Locale;
@@ -51,6 +50,7 @@ import code.name.monkey.retromusic.dialogs.AddToPlaylistDialog;
 import code.name.monkey.retromusic.glide.ArtistGlideRequest;
 import code.name.monkey.retromusic.glide.RetroMusicColoredTarget;
 import code.name.monkey.retromusic.helper.MusicPlayerRemote;
+import code.name.monkey.retromusic.ui.activities.base.AbsSlidingMusicPanelActivity;
 import code.name.monkey.retromusic.ui.adapter.album.AlbumAdapter;
 import code.name.monkey.retromusic.ui.adapter.song.SimpleSongAdapter;
 import code.name.monkey.retromusic.util.CustomArtistImageUtil;
